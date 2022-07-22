@@ -1,0 +1,2 @@
+# Nix
+A simple site
