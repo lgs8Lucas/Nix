@@ -1,0 +1,35 @@
+:root{
+    --cor-principal: #1e1a3f;
+    --cor-segundaria: #9b4dcf;
+}
+
+/*Parte Genérica*/
+.nix-bg{
+    background-color: var(--cor-principal)!important;
+}
+.nix-title{
+    color: var(--cor-segundaria);
+    font-size: xxx-large;
+}
+.nix-subtitle{
+    color: #ffffff;
+    font-size: x-large;
+}
+.nix-color{
+    color: var(--cor-segundaria);
+}
+
+
+/*Jogo da velha*/
+.nix-btn-game{
+    width: 50px;
+    height: 50px;
+  }
+  .color-x{
+    color: blue;
+    font-size: large;
+  }
+  .color-o{
+    font-size: large;
+    color: red;
+  }
